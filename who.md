@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Who will use the GCL"
 permalink: /who/
+---
 # Who is the GCL for?
 
 ### The GCL is for...
